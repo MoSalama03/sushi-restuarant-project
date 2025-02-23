@@ -1,0 +1,15 @@
+.hero {
+  text-align: center;
+  padding: 4rem 2rem;
+  background-color: #f9f9f9;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  color: #333;
+}
+
+.hero p {
+  font-size: 1.5rem;
+  color: #666;
+}

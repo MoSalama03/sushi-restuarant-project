@@ -1,0 +1,47 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-section {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.nav-logo svg {
+  height: 60px;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+}
+
+.navbar-item {
+  position: relative;
+}
+
+.navbar-item a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.dropdown-menu {
+  position: relative;
+}
+
+.menu-arrow {
+  margin-left: 0.5rem;
+}
+
+.nav-btns {
+  display: flex;
+  gap: 1rem;
+}
